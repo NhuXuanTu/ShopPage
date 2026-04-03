@@ -51,7 +51,7 @@ export const products = [
     price: 990000,
     category: "Accessories",
     image:
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/w/e/webcam-logitech-mx-brio-4k-ultra-hd-xam_1_.png",
     description: "Webcam rõ nét cho học online và họp trực tuyến.",
   },
 ];
